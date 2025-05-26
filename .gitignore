@@ -1,2 +1,5 @@
 logs/
 main.logs
+dev.logs
+bin/
+app.bin
